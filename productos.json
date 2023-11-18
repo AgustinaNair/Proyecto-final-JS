@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "nombre" : "Protector solar FPS 80",
+        "precio": 10882,
+        "descripcion": "Ofrece muy alta protección contra las quemaduras solares",
+        "imagen":"https://www.andromaco.com/Portals/0/images/ecommerce/7793742003707.jpg"
+    },
+    {
+        "id": 2,
+        "nombre" : "Protector solar para bebés",
+        "precio": 4001,
+        "descripcion": "Especialmente diseñado para la piel delicada del bebé",
+        "imagen":"https://www.andromaco.com/Portals/0/images/ecommerce/7793742003660.jpg?v=202009"
+    },
+    {
+        "id": 3,
+        "nombre" : "Protector solar facial",
+        "precio": 9833,
+        "descripcion": "Fórmula innovadora para el cuidado del rostro",
+        "imagen":"https://www.andromaco.com/portals/0/Images/ecommerce/7793742004520.jpg"
+    },
+    {
+        "id": 4,
+        "nombre" : "Barra Protectora FPS30",
+        "precio": 14782,
+        "descripcion": "Protección específica para labios y rostro",
+        "imagen":"https://www.andromaco.com/portals/0/Images/ecommerce/7793742002670.jpg"
+    }
+    
+]
